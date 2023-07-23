@@ -41,3 +41,12 @@ body {
 
 
 }
+
+#div1 {
+    width: 100px;
+    height: 100%;
+    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
+
+    box-sizing: border-box;
+}

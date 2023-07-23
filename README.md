@@ -3,7 +3,7 @@
 <h2>How to use</h2>
 <p>Download the files and open index.html in your browser</p>
 <h2>Preview</h2>
-<img src="./Assets/preview.png" alt="preview">
+<img height="50%" width="40%" src="./Assets/preview.png" alt="preview">
 <h2>Contributing</h2>
 <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to
     change.</p>

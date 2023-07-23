@@ -3,7 +3,7 @@
 <h2>How to use</h2>
 <p>Download the files and open index.html in your browser</p>
 <h2>Preview</h2>
-<img src="preview.png" alt="preview">
+<img src="./Assets/preview.png" alt="preview">
 <h2>Contributing</h2>
 <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to
     change.</p>
@@ -31,9 +31,9 @@ Open Font License, Version 1.1</h1>
 
 <h3>colors:- SCSS RGB </h3>
 
--$black: rgba(0, 0, 0, 1);</h1>
--$oxford-blue: rgba(20, 33, 61, 1);</h1>
--$orange-web: rgba(252, 163, 17, 1);</h1>
--$platinum: rgba(229, 229, 229, 1);</h1>
--$white: rgba(255, 255, 255, 1);</h1>
+- $black: rgba(0, 0, 0, 1);
+- $oxford-blue: rgba(20, 33, 61, 1);
+- $orange-web: rgba(252, 163, 17, 1);
+- $platinum: rgba(229, 229, 229, 1);
+- $white: rgba(255, 255, 255, 1);
 <img height="300px" width="400px" src="./Assets/colors.png" alt="SCSS RGB">

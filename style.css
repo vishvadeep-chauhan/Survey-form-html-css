@@ -1,0 +1,43 @@
+* {
+    margin-top: 10px;
+    margin-left: 5px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e5e5e5ff;
+    font-family: 'Lekton', sans-serif;
+}
+
+#heading {
+    width: 280px;
+    height: min-content;
+
+}
+
+#heading h1 {
+    text-align: left;
+    font-size: 40px;
+    line-height: 90%;
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+
+
+}
+
+#sidelogo {
+    width: 220px;
+    height: 220px;
+    margin-top: -160px;
+
+
+}
+
+#sidelogo img {
+    width: 150px;
+    height: 150px;
+    margin-left: 280px;
+
+
+}

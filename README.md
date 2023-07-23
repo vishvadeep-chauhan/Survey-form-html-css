@@ -11,9 +11,9 @@
 <h2>License</h2>
 <p>MIT</p>
 <h2>Author</h2>
-<p>Vishvadeep Singh Chauhan</p>
+- Vishvadeep Singh Chauhan</p>
 <h2>Project status</h2>
-<p>Completed</p>
+- Completed</p>
 <h2>Live preview</h2>
 <a href="https://vishvadeepsingh.github.io/Survey_form/">Survey-form</a>
 <h2>Code preview</h2>
@@ -36,4 +36,12 @@ Open Font License, Version 1.1</h1>
 - $orange-web: rgba(252, 163, 17, 1);
 - $platinum: rgba(229, 229, 229, 1);
 - $white: rgba(255, 255, 255, 1);
+
+<h3>SCSS HEX</h3>
+
+- $black: #000000ff;
+- $oxford-blue: #14213dff;
+- $orange-web: #fca311ff;
+- $platinum: #e5e5e5ff;
+- $white: #ffffffff;
 <img height="300px" width="400px" src="./Assets/colors.png" alt="SCSS RGB">

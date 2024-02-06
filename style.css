@@ -42,7 +42,7 @@ body {
 
 }
 
-#div1 {
+.div1 {
     width: 100px;
     height: 100%;
     border-radius: 50px;
